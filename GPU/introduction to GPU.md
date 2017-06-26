@@ -40,8 +40,8 @@ CUDA(Compute Unified Device Architecture)，通用并行计算架构，是一种
 
 **vidia显卡分类:**
 
-**GeForce系列：家庭娱乐。**打游戏必备；
+**GeForce系列**：家庭娱乐，打游戏必备；
 
-**Quadro系列：专业绘图设计。**视频渲染，经常使用3ds Max、Maya等软件的必备。
+**Quadro系列**：专业绘图设计，视频渲染，经常使用3ds Max、Maya等软件的必备。
 
-**Tesla系列：高端显卡，用于大规模的并行计算。**土豪必备。
+**Tesla系列**：高端显卡，用于大规模的并行计算，土豪必备。
